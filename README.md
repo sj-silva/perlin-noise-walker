@@ -2,7 +2,9 @@
 
 Uma visualização interativa simples demonstrando movimento com ruído Perlin usando p5.js. O projeto cria um padrão de movimento suave e orgânico para um círculo vermelho com contorno verde.
 
-![Demo do Perlin Noise Walker](example.gif)
+<div align="center">
+  <img src="example.gif" alt="Exemplo" />
+</div>
 
 ## Visão Geral
 
